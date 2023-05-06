@@ -104,7 +104,6 @@ public class Aula0{
 
         System.out.printf("Nome: %s \nIdade: %d\n", nome, idade);
 
-
         ler.close();
     }
 } 
