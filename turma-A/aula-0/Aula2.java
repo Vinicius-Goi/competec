@@ -13,6 +13,9 @@ public class Aula2{
             i++;
         }
         */
+
+        //==========================================================================
+
         int senha = 0;
         System.out.print("Digite uma senha: ");
         senha = ler.nextInt();
